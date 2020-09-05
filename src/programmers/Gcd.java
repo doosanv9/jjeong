@@ -1,3 +1,5 @@
+package programmers;
+
 public class Gcd {
     int[] getGcd(int n, int m) {
         int[] arr = new int[2];

@@ -1,3 +1,5 @@
+package programmers;
+
 public class Compare {
     boolean compareCp(String s) {
         boolean answer = true;

@@ -1,3 +1,5 @@
+package programmers;
+
 public class Squared {
 
     long getSquared(long n){

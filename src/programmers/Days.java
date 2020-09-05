@@ -1,3 +1,5 @@
+package programmers;
+
 public class Days {
     public String cntDays(int a, int b) {
         String answer = "";
